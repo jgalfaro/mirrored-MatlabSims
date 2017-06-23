@@ -1,3 +1,7 @@
+% Differnece in Doppler between moving transmitter and moving receiver
+% Author: Jamil Kassem
+% Version: June 23, 2017
+%
 clear;
 close all;
 prompt={'Enter a value of \beta (in degrees)'};

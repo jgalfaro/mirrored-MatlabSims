@@ -1,3 +1,8 @@
+% Doppler shift of transmitter moving under sin function 
+% with an array of 5 receivers
+% Author: Jamil Kassem
+% Version: June 23, 2017
+%
 clear;
 close all;
 prompt={'Enter a value of \beta (in degrees)'};

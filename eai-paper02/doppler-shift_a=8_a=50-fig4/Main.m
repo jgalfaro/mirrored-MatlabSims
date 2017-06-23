@@ -1,5 +1,9 @@
-% Evaluation of Doppler spread
-clear all;
+% Doppler shift between Transmitter moving under Caruso et al.
+% and receiver moving according to a sin function in ULF band
+% Author: Jamil Kassem
+% Version: June 23, 2017
+%
+clear;
 close all;
 Rate=4; %number of samples per second
 fileID = fopen('output.txt','r');

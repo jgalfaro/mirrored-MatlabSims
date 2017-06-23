@@ -1,6 +1,9 @@
-% Evaluation of Doppler spread
+% Doppler shift between 2 objects moving towards each other in ULF band
+% Author: Jamil Kassem
+% Version: June 23, 2017
+%
 close all;
-clear all;
+clear;
 clear;
 figure;
 % speed 
